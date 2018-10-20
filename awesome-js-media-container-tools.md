@@ -1,7 +1,7 @@
 
-# List of Awesome: JavaScript/ES based media containers toolkits / libraries / viewers
+# List of Awesome: JavaScript based media containers toolkits / libraries / viewers
 
-* https://github.com/epiclabs-io/inspector.js | Javascript Library that implements MpegTS, MP4 and WebM demuxers.
+* https://github.com/epiclabs-io/inspector.js | Typescript library that implements MpegTS, MP4 and WebM demuxers.
 
 * https://github.com/videojs/thumbcoil | Tools for inspecting MPEG2TS, fMP4, and FLV files and the codec bitstreams therein
 
