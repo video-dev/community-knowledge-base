@@ -1,6 +1,6 @@
 # List of ISO BMFF / MP4 / MPEG Common File Format (CFF) analysis, authoring and manipulation tools
 
-* https://www.ffmpeg.org/ | The classic and well known can-do-all monolith.
+* https://www.ffmpeg.org/ | The classic and well-known. Includes `ffprobe` tool, useful to quickly gather details on media container internals.
 
 * https://gpac.wp.imt.fr/ | "GPAC MP4Box is a multimedia packager, with a vast number of functionalities: conversion, splitting, hinting, dumping and others. It is a command-line tool whose major switches are documented here. GPAC is an Open Source multimedia framework. GPAC is used for research and academic purposes and beyond through industrial collaborations."
 
