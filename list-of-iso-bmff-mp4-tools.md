@@ -6,11 +6,13 @@
 
 * https://github.com/google/shaka-packager | A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems. 
 
-* https://github.com/axiomatic-systems/Bento4 | Full-featured MP4 format and MPEG DASH library and tools (in C++, with Java and Python bindings)
+* https://github.com/amarghosh/mp4viewer | ISO base media file viewer in Python (CLI). Semantic text output to shell & GTK-based GUI view mode.
 
-* https://github.com/sannies/mp4parser | A Java library to read, write and create MP4 files
+* https://github.com/sannies/mp4parser | A Java library to read, write and create MP4 files.
 
-* https://github.com/sannies/isoviewer | Java desktop application to have closer look ISO 14496-12 and other MP4 files.
+* https://github.com/sannies/isoviewer | Java desktop application to have closer look ISO 14496-12 and other MP4 files (GUI only).
 
 * https://gstreamer.freedesktop.org/data/doc/gstreamer/head/gst-plugins-good/html/gst-plugins-good-plugins-plugin-isomp4.html | GStreamer'S `isomp4` plugins can be used as part of a processing pipeline for muxing/demuxing, authoring or any other manipulation.
+
+* https://github.com/axiomatic-systems/Bento4 | Full-featured MP4 format and MPEG DASH library and tools (in C++, with Java and Python bindings).
 
