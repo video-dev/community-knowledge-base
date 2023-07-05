@@ -20,3 +20,4 @@
 
 * https://github.com/sannies/isoviewer | Java desktop application to have closer look ISO 14496-12 and other MP4 files (GUI only).
 
+* https://github.com/wader/fq | jq for binary formats - tool, language and decoders for working with binary and text formats. Has support for mp4, matroska ad lots of other media related formats.
