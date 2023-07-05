@@ -20,3 +20,5 @@
 
 * https://github.com/sannies/isoviewer | Java desktop application to have closer look ISO 14496-12 and other MP4 files (GUI only).
 
+* https://github.com/Eyevinn/mp4ff | Go library and tools for parsing and writing MP4 files including video, audio and subtitles. Includes `mp4ff-info`, `mp4ff-pslister`, `mp4ff-nallister`, `mp4ff-wvttlister`, and `mp4ff-crop` tools as well as example code.
+
