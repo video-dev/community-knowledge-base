@@ -12,6 +12,8 @@
 
 * https://github.com/amarghosh/mp4viewer | ISO base media file viewer in Python (CLI). Semantic text output to shell & GTK-based GUI view mode.
 
+* https://github.com/andrewx-bu/mp4analyzer | MP4 analyzer with CLI and Qt GUI, featuring box tree views and optional per-frame analysis.
+
 * https://www.ffmpeg.org/ | The classic and well-known. Includes `ffprobe` tool, useful to quickly gather details on media container internals.
 
 * https://gstreamer.freedesktop.org/data/doc/gstreamer/head/gst-plugins-good/html/gst-plugins-good-plugins-plugin-isomp4.html | GStreamer'S `isomp4` plugins can be used as part of a processing pipeline for muxing/demuxing, authoring or any other manipulation.
