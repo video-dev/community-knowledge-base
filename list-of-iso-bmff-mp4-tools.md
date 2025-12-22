@@ -8,7 +8,9 @@
 
 * https://gpac.github.io/mp4box.js/test/filereader.html | GPAC online web-based ISOBMFF / MP4 Box Structure Viewer 
 
-* https://github.com/Dash-Industry-Forum/codem-isoboxer | A lightweight browser-based MPEG-4 (ISOBMFF) file/box parser. 
+* https://github.com/Dash-Industry-Forum/codem-isoboxer | A lightweight browser-based MPEG-4 (ISOBMFF) file/box parser.
+
+* https://github.com/andrewx-bu/mp4analyzer | MP4 analyzer with CLI and Qt GUI, featuring box tree views and optional per-frame analysis.
 
 * https://github.com/amarghosh/mp4viewer | ISO base media file viewer in Python (CLI). Semantic text output to shell & GTK-based GUI view mode.
 
